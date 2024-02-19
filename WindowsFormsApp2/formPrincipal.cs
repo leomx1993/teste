@@ -22,7 +22,7 @@ namespace minhaBiblioteca
 {
     public class minhaClasse
     {
-        public string texto = "Mensagem do botão";
+        public string texto = "Mensagem do botão 2";
     }
 }
 
